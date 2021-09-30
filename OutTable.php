@@ -25,4 +25,3 @@ $table .= '</table>';
 
 echo $table;
 
-?>
